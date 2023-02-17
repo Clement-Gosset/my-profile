@@ -1,0 +1,121 @@
+/* color and front*/
+
+
+body{
+
+background: rgb(250, 250, 250);
+
+font-family:revert ;
+font-size: 20px;
+width: 600px;
+margin: 40px auto;
+ ;
+
+}
+
+
+h1,h2,h3 {
+font-family: unset;
+
+}
+
+
+h1{
+
+color: 3C84AB;
+font-size: 33px;
+
+line-height: ;
+letter-spacing: 1px;
+box-shadow: 10px 10px 30px FFF4D2;
+border-radius: 5px;
+
+
+}
+
+
+
+h2{
+
+color: B5F1CC;
+font-size:30px ;
+line-height: ;
+letter-spacing:;
+
+}
+
+
+h3{
+
+
+color: F6E6C2 ;
+font-size: 15px;
+line-height: ;
+
+
+}
+
+
+a { 
+
+text-decoration: none;
+color: ;
+ }
+
+
+ a:hover {
+
+ 	color: FFAACF;
+ }
+
+
+ /* custom design with class */
+
+
+ .container {
+    width: 800 px;
+    margin: 30px auto;
+ }
+
+
+ .card-white {
+
+    background-color: white;
+    box-shadow: 10px 10px 30px rgba(0, 0, 0, 0.1) ;
+    padding: 60px;
+    border-radius:6px  ;
+    text-align: center;
+    margin: 20px 0px;
+}
+
+.img-circle {
+    border-radius: 50% ;
+
+}
+
+.btn-blue{
+    background-color: FFF4D2;
+    padding:15px 20px ;
+    color: rosybrown ;
+    border-radius: 5px;
+ }
+
+ .list-inline{
+
+    list-style: none;
+    padding-left: 0px;
+
+ }
+
+.list-inline i{ 
+    font-size: 40px;
+ }
+
+.list-inline li{ 
+display:inline;
+padding:13px }
+
+
+#introduction p {
+margin-bottom: 40px;
+}
